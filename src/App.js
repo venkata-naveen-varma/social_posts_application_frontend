@@ -8,7 +8,7 @@ import Home from './components/Home/Home'
 const App = () => {
   return (
     <Container maxWidth="lg">
-      <Navbar />
+      <Navbar /> 
       <switch>
         <Route path="/" exact component={Home} />
         <Route path="/auth" exact component={Auth} />
