@@ -13,3 +13,5 @@ Checkout application at --> [social-posts-app](https://playful-kheer-3ff695.netl
 ### Platforms used to host the website
 - Server --> https://app.cyclic.sh/#/
 - Frontend --> https://www.netlify.com
+
+![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=venkata-naveen-varma&show_icons=true)
