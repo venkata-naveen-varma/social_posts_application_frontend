@@ -11,5 +11,5 @@ Checkout application at --> [social-posts-app](https://playful-kheer-3ff695.netl
 - [Server Git Repo](https://github.com/venkata-naveen-varma/social_posts_application)
 
 ### Platforms used to host the website
-- Server --> https://app.cyclic.sh/#/
+- Server --> https://www.render.com
 - Frontend --> https://www.netlify.com
